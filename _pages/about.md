@@ -1,34 +1,51 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <p><a href="mailto:dellamonica@diag.uniroma1.it">dellamonica@diag.uniroma1.it</a></p> # <a href='https://phd.uniroma1.it/web/PIERPAOLO-DELLA-MONICA_nP2123782_.aspx'>Sapienza University of Rome</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
+    
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # moved social icons into the profile sidebar above
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Ciao! I'm Pierpaolo Della Monica, a PhD student in Cybersecurity at [Sapienza University of Rome](https://phd.uniroma1.it/web/PIERPAOLO-DELLA-MONICA_nP2123782_.aspx), where I am lucky enough to be supervised by [Ivan Visconti](https://www.diag.uniroma1.it/users/ivan_visconti).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+ My research is on **cryptography** both from a *theoretical* and *applied* perspective, with a focus on the design and analysis of cryptographic protocols, mainly in the area of *advanced signatures* schemes and their applications in *privacy-enhancing technologies* such as *anonymous credentials*. 
+ I am also interested in the interconnection between cryptography and blockchain where I find the latter as an extremely cool playground for the former. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+ I was born in [Vietri sul Mare](https://en.wikipedia.org/wiki/Vietri_sul_Mare), a small town on the Amalfi Coast (Italy). Currently I am based in Bochum (Germany) where I am a visiting PhD student at [Ruhr University](https://www.ruhr-uni-bochum.de/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- [^1]: Yes, {Della Monica} is my surname  (not just Monica). It happens more often than you'd think. -->
+
+
+
+My music taste is all over the place, but if I had to crown one favorite artist, it’d be [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq?autoplay_ok=1).
+My surname is "Della Monica", not "Monica". It happens more often than you'd think.
+
+
+  <div class="social">
+    <div class="contact-icons">
+      <a target="_blank" href="/assets/pdf/CV.pdf" title="Cv pdf"><i class="ai ai-cv"></i></a>
+      <a href="https://scholar.google.com/citations?user=ewETxKgAAAAJ" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
+      <a target="_blank" href="https://github.com/pierpaolodm" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github"></i></a>
+    </div>
+  </div>
+
+  ---

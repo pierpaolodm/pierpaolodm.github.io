@@ -1,9 +1,101 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"CRYPTO":
+  url: https://crypto.iacr.org/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EUROCRYPT":
+  url: https://eurocrypt.iacr.org/
 
-"Vision":
-  color: "#009f36"
+"ASIACRYPT":
+  url: https://asiacrypt.iacr.org/
+
+"CHES":
+  url: https://ches.iacr.org/
+
+"FSE":
+  url: https://fse.iacr.org/
+
+"PKC":
+  url: https://pkc.iacr.org/
+
+"TCC":
+  url: https://tcc.iacr.org/
+
+"RWC":
+  url: https://rwc.iacr.org/
+
+"ACNS":
+  url: https://acns-conference.org/
+
+"SAC":
+  url: https://www.sacryptography.org/
+
+"CANS":
+  url: https://cans-workshop.org/
+
+"BCRA":
+  url: https://bcra.work/
+
+"AFRICACRYPT":
+  url: https://africacrypt.iacr.org/
+
+"INDOCRYPT":
+  url: https://www.indocrypt.org/
+
+"LATINCRYPT":
+  url: https://latincrypt.org/
+
+"IEEE S&P":
+  url: https://www.ieee-security.org/TC/SP-Index.html
+
+"Oakland":
+  url: https://www.ieee-security.org/TC/SP-Index.html
+
+"USENIX":
+  url: https://www.usenix.org/conference/usenixsecurity
+
+"NDSS":
+  url: https://www.ndss-symposium.org/
+
+"CCS":
+  url: https://www.sigsac.org/ccs.html
+
+"ESORICS":
+  url: https://www.esorics.org/
+
+"RAID":
+  url: https://raid-symposium.org/
+
+"PETS":
+  url: https://petsymposium.org/
+
+"FC":
+  url: https://fc-conference.org/
+
+"CSF":
+  url: https://www.ieee-csf.org/
+
+"WiSec":
+  url: https://wisec.org/
+
+"ACSAC":
+  url: https://www.acsac.org/
+
+"ASIACCS":
+  url: https://asiaccs.org/
+
+"EuroS&P":
+  url: https://www.ieee-security.org/TC/EuroSP/
+
+"CT-RSA":
+  url: https://ct-rsa.org/
+
+"TrustCom":
+  url: https://www.ieee.org/conferences/
+
+"ICISC":
+  url: https://icisc.org/
+
+"SECRYPT":
+  url: https://secrypt.scitevents.org/
+
+"CODASPY":
+  url: https://www.codaspy.org/
