@@ -32,7 +32,7 @@ Ciao! I'm Pierpaolo Della Monica, a PhD student in Cybersecurity at [Sapienza Un
 
  You can find a list of my works on my [publications page](https://pierpaolodm.github.io/publications/).
 
- I was born in [Vietri sul Mare](https://en.wikipedia.org/wiki/Vietri_sul_Mare), a small town on the Amalfi Coast (Italy). Currently I am based in Bochum (Germany) where I am a visiting PhD student at [Ruhr University](https://www.ruhr-uni-bochum.de/).
+I was born in [Vietri sul Mare](https://en.wikipedia.org/wiki/Vietri_sul_Mare), a small town on the Amalfi Coast (Italy). Currently I am based in Bochum (Germany) where I am a visiting [Julian Loss](https://www.julianloss.com/) at Ruhr University.
 
 <!-- [^1]: Yes, {Della Monica} is my surname  (not just Monica). It happens more often than you'd think. -->
 
