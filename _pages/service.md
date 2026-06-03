@@ -40,4 +40,4 @@ In the lists below, **[SR]** denotes *Sub-Reviewer*; awards are highlighted inli
 
 **2024**
 - [SR] **SCN** (Security and Cryptography for Networks) 
-- [SR] **DLT** (Distributed Ledger Technologies Workshop)  — <span style="color: var(--global-theme-color);">Best Review Award</span>
+- [SR] **DLT** (Distributed Ledger Technologies Workshop)  — [<span style="color: var(--global-theme-color);">Best Review Award</span>](https://dlt2024.di.unito.it/)
