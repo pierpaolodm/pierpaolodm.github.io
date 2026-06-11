@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title:   Publications
-description:  Publications by categories in reversed chronological order.
+description:  Publications by categories in reversed chronological order. Authors are listed in alphabetical order, as is customary in theoretical computer science publications.
 nav: true
 nav_order: 2
 ---
