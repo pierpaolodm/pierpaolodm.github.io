@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-29'
 papers:
   ewETxKgAAAAJ:9yKSN-GCB0IC:
     citations: 17
     title: 'Trust nobody: Privacy-preserving proofs for edited photos with your laptop'
     year: '2025'
   ewETxKgAAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 4
     title: Decentralized Fair Exchange with Advertising
     year: '2025'
   ewETxKgAAAAJ:Y0pCki6q_DkC:
@@ -22,6 +22,6 @@ papers:
     title: 'Enabling efficient verification in a DApp: The case of copyright management'
     year: '2025'
   ewETxKgAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: 'ACTS: Attestations of Contents in TLS Sessions'
     year: '2026'
