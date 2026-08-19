@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   ewETxKgAAAAJ:9yKSN-GCB0IC:
     citations: 22
@@ -10,13 +10,13 @@ papers:
     title: Decentralized Fair Exchange with Advertising
     year: '2025'
   ewETxKgAAAAJ:Y0pCki6q_DkC:
-    citations: 2
+    citations: 3
     title: Round-Optimal GUC-Secure Blind Signatures from Minimal Computational and Setup Assumptions
     year: '2026'
-  ewETxKgAAAAJ:YsMSGLbcyi4C:
+  ewETxKgAAAAJ:eQOLeE2rZwMC:
     citations: 0
-    title: Towards Optimal Concurrent-Secure Blind Schnorr Signatures
-    year: '2025'
+    title: Improved Concurrent-Secure Blind Schnorr Signatures
+    year: '2026'
   ewETxKgAAAAJ:u-x6o8ySG0sC:
     citations: 1
     title: 'Enabling efficient verification in a DApp: The case of copyright management'
