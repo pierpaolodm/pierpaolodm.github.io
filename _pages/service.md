@@ -25,19 +25,26 @@ In the lists below, **[SR]** denotes *Sub-Reviewer*; awards are highlighted inli
 <h3 style="text-align: left; color: var(--global-theme-color);">Conferences</h3>
 
 **2026**
-- [SR] **CRYPTO** (International Cryptology Conference) 
-- [SR] **ACM CCS** (ACM Conference on Computer and Communications Security) 
-- [SR] **SCN** (Security and Cryptography for Networks) 
-- [SR] **ZKProof** (ZKProof Workshop) 
+
+- [SR] **CRYPTO** (International Cryptology Conference)  
+- [SR] **ACM CCS** (ACM Conference on Computer and Communications Security)  
+- [SR] **SCN** (Security and Cryptography for Networks)  
+- [SR] **ZKProof** (ZKProof Workshop)  
+- [SR] **USENIX Security** (USENIX Security Symposium)  
+- [SR] **PKC** (International Conference on Practice and Theory of Public-Key Cryptography)  
+- [SR] **EUROCRYPT** (International Conference on the Theory and Applications of Cryptographic Techniques)  
+- **ACNS** (International Conference on Applied Cryptography and Network Security)  
 
 ---
 
 **2025**
-- [SR] **ASIACRYPT** (International Conference on the Theory and Application of Cryptology and Information Security) 
-- [SR] **DLT** (Distributed Ledger Technologies Workshop) 
+
+- [SR] **ASIACRYPT** (International Conference on the Theory and Application of Cryptology and Information Security)  
+- [SR] **DLT** (Distributed Ledger Technologies Workshop)  
 
 ---
 
 **2024**
-- [SR] **SCN** (Security and Cryptography for Networks) 
+
+- [SR] **SCN** (Security and Cryptography for Networks)  
 - [SR] **DLT** (Distributed Ledger Technologies Workshop)  — [<span style="color: var(--global-theme-color);">Best Review Award</span>](https://dlt2024.di.unito.it/)
